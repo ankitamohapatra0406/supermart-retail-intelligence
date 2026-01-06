@@ -9,7 +9,7 @@ This repository demonstrates how data-driven intelligence can support better dec
 - Identify key performance indicators (KPIs) such as revenue, profit, and sales distribution  
 - Visualize insights to support business understanding  
 - Demonstrate practical data analytics workflows using Python  
-
+ 
 ## 🧠 Key Insights Covered
 - Sales trends across categories, regions, and time  
 - Profitability analysis by product and segment  
