@@ -1,0 +1,6 @@
+Category,Total_Quantity,Total_Profit,Recommendation
+Bakery,75559,699171,Reduce Stock
+Beverages,75299,709905,Reduce Stock
+Dairy,75680,720086,Increase Stock
+Fruits,75411,712062,Reduce Stock
+Snacks,77031,697692,Increase Stock
