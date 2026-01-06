@@ -4,7 +4,7 @@ Supermart Retail Intelligence is a data analytics project focused on extracting 
 
 This repository demonstrates how data-driven intelligence can support better decision-making in the retail domain.
 
-## 📌 Project Objectives
+## 📌 Project Objectives 
 - Analyze retail sales data to uncover patterns and trends  
 - Identify key performance indicators (KPIs) such as revenue, profit, and sales distribution  
 - Visualize insights to support business understanding  
